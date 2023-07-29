@@ -1,7 +1,7 @@
-# data base 1
+# SQL1
 <<<<<<< HEAD
 =======
-# Домашнее задание к занятию "`sdb-homeworks`" - `Klochkov Vladimir`
+# Домашнее задание к занятию "`SQL1`" - `Klochkov Vladimir`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -26,17 +26,17 @@
 ---
 
 ### Задание 1
-* [link to screen]()
+* [link to screen](https://github.com/Klochkov777/SQL1/blob/master/screens/1.png)
 
 ### Задание 2
-* [link to screen]()
+* [link to screen](https://github.com/Klochkov777/SQL1/blob/master/screens/2.png)
 
 ### Задание 3
 
-* [link to screen]()
+* [link to screen](https://github.com/Klochkov777/SQL1/blob/master/screens/3.png)
 
 ### Задание 4
-* [link to screen]()
+* [link to screen](https://github.com/Klochkov777/SQL1/blob/master/screens/4.png)
 
 простыня всех запросов:
 
